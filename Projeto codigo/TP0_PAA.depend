@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1566676493 source:c:\users\andré elias\documents\prog\tp0_paa\funcoes.c
+	"funcoes.h"
+	<time.h>
+
+1566620673 c:\users\andré elias\documents\prog\tp0_paa\funcoes.h
+	<time.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1566620673 source:c:\users\andré elias\documents\prog\tp0_paa\main.c
+	"funcoes.h"
+
